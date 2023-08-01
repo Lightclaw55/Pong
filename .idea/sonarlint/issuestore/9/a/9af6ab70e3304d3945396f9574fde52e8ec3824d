@@ -1,0 +1,10 @@
+
+£
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÎ¥õøÿÿÿÿ8Áç“™1
+M
+java:S1128"+Remove this unused import 'java.awt.event'.(Ã®ÎÙÿÿÿÿÿ8Âç“™1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Âç“™1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8Âç“™1
